@@ -1,0 +1,42 @@
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\ResolveAssemblyReference.cache
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Resource1.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csproj.GenerateResource.Cache
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.FilterForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Histogram.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.ShowImgForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.FilterForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.Histogram.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.Resource1.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.ShowImgForm.resources
+C:\Documents and Settings\Michael\Ambiente de trabalho\SS_OpenCV\obj\Debug\SS_OpenCV.csproj.GenerateResource.Cache
