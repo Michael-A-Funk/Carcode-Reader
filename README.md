@@ -6,7 +6,7 @@ This programm can identify a car license plate from a photograph.
 
 ## Background 
 
-This was done in a the university subject "Sensory Systems".
+This was done in a university (UNL-FCT) masters subject "Sensory Systems".
 
 ## Limitations
 
